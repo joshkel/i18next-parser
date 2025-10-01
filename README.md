@@ -7,7 +7,7 @@
 
 ## Deprecation notice
 
-This project is no more maintained as of September 2025. Please use [@i18next/i18next-cli](https://github.com/i18next/i18next-cli) instead that does everything you might need and more. 
+This project is no more maintained as of September 2025. Please use [i18next/i18next-cli](https://github.com/i18next/i18next-cli) instead that does everything you might need and more. Just run `npx i18next-cli migrate-config`.
 
 ---
 ---
